@@ -1,0 +1,19 @@
+#crisanta atienza
+#calculate the probability of cancer patient and diagnostic teat 
+
+#calculate P(A/B) given P(A), P(Binot A) def bayes theorem (p_a, p_b_given a, p_b_givan_not_a): 
+
+#calculate P(not A) not a 1 pa (calculate P(B) pbpbgiven a papb given not a 
+
+#calculate P(A/B) not a p_a_given_b (p_b_given_ap_a) / p_b return pa given b 
+
+#P(A) 
+#p_a 0.0002 
+#P(B|A) 
+#p_b_given_a 0.85 
+#P(B)not. A) 
+#pb given not a 0.05 
+#calculate P(AIB) 
+#result bayes_theorem (p_a, p_b given a, p_b_given_not_a) summarize
+
+#print('P(A/B).33 (result 100))
